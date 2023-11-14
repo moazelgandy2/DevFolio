@@ -24,7 +24,7 @@ Devfolio is a clean and modern portfolio template tailored for developers to exh
 To use Devfolio, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/devfolio.git
+git clone https://github.com/moazelgandy2/DevFolio
 ````
 ## Usage
 After cloning the repository, open the project directory.
