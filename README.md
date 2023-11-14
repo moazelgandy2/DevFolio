@@ -2,6 +2,10 @@
 
 Devfolio is a responsive web template designed for developers, showcasing their portfolios, projects, skills, and contact information. It is built using HTML, CSS, Bootstrap, and JavaScript.
 
+## Live Demo
+
+Explore the live demo [here](https://devfolio-ea5b7.web.app/) to see Devfolio in action!
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
