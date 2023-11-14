@@ -7,8 +7,6 @@ Devfolio is a responsive web template designed for developers, showcasing their 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -30,6 +28,9 @@ git clone https://github.com/your-username/devfolio.git
 ````
 ## Usage
 After cloning the repository, open the project directory.
+<br>
 Modify the HTML and CSS files to add your own content, projects, and details.
+<br>
 Customize styles or layout if needed.
+<br>
 Test the website locally by opening index.html in your preferred web browser.
