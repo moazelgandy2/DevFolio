@@ -4,7 +4,7 @@ Devfolio is a responsive web template designed for developers, showcasing their 
 
 ## Live Demo
 
-Explore the live demo [here](https://devfolio-ea5b7.web.app/) to see Devfolio in action!
+Explore the live demo [here](https://devfolio-ea5b7.web.app/){:target="_blank"} to see Devfolio in action!
 
 ## Table of Contents
 - [Introduction](#introduction)
