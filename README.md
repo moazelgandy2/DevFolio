@@ -34,3 +34,6 @@ Modify the HTML and CSS files to add your own content, projects, and details.
 Customize styles or layout if needed.
 <br>
 Test the website locally by opening index.html in your preferred web browser.
+
+##Acknowledgements
+This project was derived from a Bootstrap template, and I've modified it to develop my skills and tailor it for my use.
