@@ -27,13 +27,9 @@ To use Devfolio, simply clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/devfolio.git
-Usage
+````
+## Usage
 After cloning the repository, open the project directory.
 Modify the HTML and CSS files to add your own content, projects, and details.
 Customize styles or layout if needed.
 Test the website locally by opening index.html in your preferred web browser.
-Contributing
-Contributions are welcome! If you find any issues or want to enhance the template, feel free to open a pull request. Please ensure any changes align with the project's goals and follow the existing code style.
-
-License
-This project is licensed under the MIT License.
