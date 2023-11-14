@@ -35,5 +35,5 @@ Customize styles or layout if needed.
 <br>
 Test the website locally by opening index.html in your preferred web browser.
 
-##Acknowledgements
+## Acknowledgements
 This project was derived from a Bootstrap template, and I've modified it to develop my skills and tailor it for my use.
